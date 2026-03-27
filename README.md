@@ -42,7 +42,7 @@ public class Developer {
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshitsr04E&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=harshitsr04&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ## 📊 Most Used Languages
