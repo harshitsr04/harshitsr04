@@ -48,7 +48,7 @@ public class Developer {
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsr04&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsr04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 
