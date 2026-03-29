@@ -1,4 +1,4 @@
-<!-- Typing SVG -->
+m<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Harshit+Srivastava;Backend+Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+Enthusiast;Building+Scalable+Applications🚀" />
 </p>
@@ -80,4 +80,4 @@ public class Developer {
 
 
 🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/harshit-srivastava-408312291/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:harshitsr22@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/harshit-srivastava-408312291/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshitsr22@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /> </a> </p>
