@@ -1,4 +1,4 @@
-m<!-- Typing SVG -->
+<!-- Typing SVG-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Harshit+Srivastava;Backend+Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+Enthusiast;Building+Scalable+Applications🚀" />
 </p>
