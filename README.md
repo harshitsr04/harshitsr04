@@ -13,7 +13,7 @@ public class Developer {
     String location = "India 🇮🇳";
 
     String[] frontend = {"HTML", "CSS", "React JS"};
-    String[] backend = {"Java", "Spring Boot", "Hibernate", "JDBC"};
+    String[] backend = {"Java", "Spring Boot","Spring AOP" ,"Hibernate", "JDBC"};
     String[] databases = {"MySQL", "PostgreSQL"};
 
     String[] tools = {"Postman", "GitHub"};
