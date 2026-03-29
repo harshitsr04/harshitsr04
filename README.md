@@ -1,6 +1,9 @@
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Harshit+Srivastava;Backend+Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+Enthusiast;Building+Scalable+Applications🚀" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitsr04&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</p>
 </p>
 
 ---
